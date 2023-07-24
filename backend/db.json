@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta preta",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Lapis",
+            "price": 2.89
+        },
+        {
+            "id": 3,
+            "name": "Borracha",
+            "price": 0.89
+        },
+        {
+            "id": 4,
+            "name": "Caderno",
+            "price": 10.89
+        },
+        {
+            "id": 5,
+            "name": "Notebook",
+            "price": 20000.00
+        }
+    ]
+}
