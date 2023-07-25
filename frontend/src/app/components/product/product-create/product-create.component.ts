@@ -20,9 +20,8 @@ export class ProductCreateComponent implements OnInit {
 
   createProduct(): void {
     this.productService.create(this.product).subscribe(() => {
-      //chamada para Produto.service - backend
-      this.productService.showMessage('Produto incluído!'); // mostra mensagem
-      this.router.navigate(['/products']); // opcional navegar para pagina inicial de produto
+      this.productService.showMessage('Produto incluído!');
+      this.router.navigate(['/products']);
     });
   }
   cancel(): void {
