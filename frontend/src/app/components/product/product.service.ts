@@ -46,3 +46,6 @@ export class ProductService {
     return this.http.delete<Product>(url);
   }
 }
+
+// tipos que requisição http
+//get, put, delete

@@ -1,16 +1,6 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneta preta 2",
-      "price": "6666"
-    },
-    {
-      "id": 2,
-      "name": "alterado lapis",
-      "price": 2.89
-    },
-    {
       "id": 3,
       "name": "Borracha",
       "price": 0.89
@@ -21,14 +11,29 @@
       "price": 10.89
     },
     {
-      "id": 5,
-      "name": "Notebook",
-      "price": 20000
+      "name": "novo produto",
+      "price": "999",
+      "id": 5
     },
     {
-      "name": "werwer",
-      "price": "222",
+      "name": "produto 567",
+      "price": "999999",
       "id": 6
+    },
+    {
+      "name": "dfgdfg",
+      "price": "9",
+      "id": 7
+    },
+    {
+      "name": "fghfgh",
+      "price": "9.8",
+      "id": 8
+    },
+    {
+      "name": "dgdfg",
+      "price": "9.8",
+      "id": 9
     }
   ]
 }
