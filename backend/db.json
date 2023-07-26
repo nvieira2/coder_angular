@@ -3,7 +3,7 @@
     {
       "id": 3,
       "name": "Borracha",
-      "price": 0.89
+      "price": "5555"
     },
     {
       "id": 4,
@@ -16,24 +16,29 @@
       "id": 5
     },
     {
-      "name": "produto 567",
-      "price": "999999",
+      "name": "novo",
+      "price": "26",
       "id": 6
     },
     {
-      "name": "dfgdfg",
-      "price": "9",
+      "name": "produto novo",
+      "price": "234",
       "id": 7
     },
     {
-      "name": "fghfgh",
-      "price": "9.8",
+      "name": "teste",
+      "price": "100",
       "id": 8
     },
     {
-      "name": "dgdfg",
-      "price": "9.8",
+      "name": "produto de teste",
+      "price": "200",
       "id": 9
+    },
+    {
+      "name": "asdad",
+      "price": "111",
+      "id": 10
     }
   ]
 }

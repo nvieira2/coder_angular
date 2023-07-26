@@ -14,3 +14,14 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .v-middle {
   vertical-align: middle;
 }
+
+.msg-success {
+    color: #fff;
+   --mdc-snackbar-container-color: #25a745; /* altera cor do fundo da snack bar */
+}
+
+.msg-error {
+    color: #fff;
+   --mdc-snackbar-container-color: #a7253f; /* altera cor do fundo da snack bar */
+}
+
